@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/The-Hitchhikers-Guide-to-the-Flat/static/css/main.073c9b0a.css",
+    "main.js": "/The-Hitchhikers-Guide-to-the-Flat/static/js/main.c1501bf7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/The-Hitchhikers-Guide-to-the-Flat/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/The-Hitchhikers-Guide-to-the-Flat/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/The-Hitchhikers-Guide-to-the-Flat/index.html",
+    "main.073c9b0a.css.map": "/The-Hitchhikers-Guide-to-the-Flat/static/css/main.073c9b0a.css.map",
+    "main.c1501bf7.js.map": "/The-Hitchhikers-Guide-to-the-Flat/static/js/main.c1501bf7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/The-Hitchhikers-Guide-to-the-Flat/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c1501bf7.js"
+  ]
+}
